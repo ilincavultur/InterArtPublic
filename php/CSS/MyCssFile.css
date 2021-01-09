@@ -1,0 +1,18 @@
+/*The id Selector (The following style is used for the HTML element with the id='my_button')*/
+#my_button1 {
+    color: red;
+}
+
+/*The class Selector: (The following style is used for ALL HTML elements with the class='my-class-blue-color')*/
+.my-class-blue-color {
+    color: blue;
+}
+
+/*The element Selector: (The following style is used for ALL <h1> elements)*/
+h1 {
+    color: green;
+}
+
+h2 {
+    color: brown;
+}
